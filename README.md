@@ -11,7 +11,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Liam Coffey and I am a Master's Student in Public Policy and Management at the John Heinz III College at Carnegie Mellon Univeristy. I got my Bachelor's of Science in Mechanical Engineering at Iowa State University, go Cyclones!
+I began my career at the San Antonio Water System (SAWS) where I worked in the Water Master Planning Team for nearly three years. During my time at SAWS my team and I worked together to plan the future growth of the water system and solved existing issues in the field. It was here that I developed my passion for public service and decided to attend Grad School so I could better transition my career into City Management.
+My time so far at CMU has been an incredible experience. I have learned so many new skills and tools to prepare myself for my future career. I am excited to learn about Telling Stories with Data to add to my already growing tool belt.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
