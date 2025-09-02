@@ -16,19 +16,18 @@ I began my career at the San Antonio Water System (SAWS) where I worked in the W
 My time so far at CMU has been an incredible experience. I have learned so many new skills and tools to prepare myself for my future career. I am excited to learn about Telling Stories with Data to add to my already growing tool belt.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+This course has been at the top of my list of classes to take at CMU and so I hope to learn the following:
 
-1. List item #1
-2. List item #2
-3. List item #3
+- Improve how I communicate information about data.
+- New tools for managing data and creating data visualizations.
+- Expand how I think about data insights.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After graduating from CMU I plan to reenter the local government sector. The new skills I have learned at CMU will prepare me to be a more effective public servant and eventual leader.
 
 # Portfolio
+- Visualizing Government Debt
+- Critique by Design
+- Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
