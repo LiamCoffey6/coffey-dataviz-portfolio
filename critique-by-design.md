@@ -15,7 +15,7 @@ https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#g
 
 ## Step two: the critique
 
-This Data Visualization does a good job of presenting all of the available data. The use of a Table is a simple format that allows the viewer to reference every data point with ease. Unfortunately the table does present some weaknesses in visualization type and color scheme. While all data points are available, it is very difficult to compare countries across categories other thatn "Total Score". The color scheme selected for this table is also very weak. Blue as a low score makes it difficult to read the numbers and yellow as a high score is counter intuitive.
+This Data Visualization does a good job of presenting all of the available data. The use of a Table is a simple format that allows the viewer to reference every data point with ease. Unfortunately the table does present some weaknesses in visualization type and color scheme. While all data points are available, it is very difficult to compare countries across categories other than "Total Score". The color scheme selected for this table is also very weak. Blue as a low score makes it difficult to read the numbers and yellow as a high score is counter intuitive.
 
 My overall scores were as follows:
 
