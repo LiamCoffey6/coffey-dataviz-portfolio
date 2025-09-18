@@ -20,11 +20,17 @@ This Data Visualization does a good job of presenting all of the available data.
 My overall scores were as follows:
 
 Usefulness:      7/10
+
 Completeness:   10/10
+
 Perceptibility:  6/10
+
 Truthfulness:   10/10
+
 Intuitiveness:   7/10
+
 Aesthetics:      3/10
+
 Engagement:      6/10
 
 
@@ -55,29 +61,45 @@ Questions Asked:
 
 Results: 
 
-In Class Interviewee 1 Summary
+In Class Interviewee 1 Summary:
+
 
 Difficult to compare between countries
+
 Would like to know actual numbers
+
 Circles make it difficult to understand
 
-In Class Interviewee 2 Summary
+
+In Class Interviewee 2 Summary:
+
 
 Eyes have a hard time tracking from country to data point
+
 Unsure what the first column "Total Score" meant
+
 With the bubbles had numbers in them
 
-In Class Interviewee 2 Summary
+
+In Class Interviewee 2 Summary:
+
 
 Would like more takeaways from the title
-Wishes the bubbles were filled in and not hollow.
-Difficulty distinguishing between countries.
 
-Public Health Master's Student Summary
+Wishes the bubbles were filled in and not hollow
+
+Difficulty distinguishing between countries
+
+
+Public Health Master's Student Summary:
+
 
 Liked the cleaness of the visualization
+
 Wants the color legend to be closer to the data quicker understanding
+
 Found the naming scheme for "High Livability" to be odd
+
 
 Synthesis: 
 
