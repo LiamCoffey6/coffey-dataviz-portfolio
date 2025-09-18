@@ -61,7 +61,7 @@ Questions Asked:
 
 Results: 
 
-In Class Interviewee 1 Summary:
+_In Class Interviewee 1 Summary:_
 
 
 Difficult to compare between countries
@@ -71,7 +71,7 @@ Would like to know actual numbers
 Circles make it difficult to understand
 
 
-In Class Interviewee 2 Summary:
+_In Class Interviewee 2 Summary:_
 
 
 Eyes have a hard time tracking from country to data point
@@ -81,7 +81,7 @@ Unsure what the first column "Total Score" meant
 With the bubbles had numbers in them
 
 
-In Class Interviewee 2 Summary:
+_In Class Interviewee 2 Summary:_
 
 
 Would like more takeaways from the title
@@ -91,7 +91,7 @@ Wishes the bubbles were filled in and not hollow
 Difficulty distinguishing between countries
 
 
-Public Health Master's Student Summary:
+_Public Health Master's Student Summary:_
 
 
 Liked the cleaness of the visualization
@@ -101,7 +101,7 @@ Wants the color legend to be closer to the data quicker understanding
 Found the naming scheme for "High Livability" to be odd
 
 
-Synthesis: 
+_Synthesis:_
 
 Based on this feedback it was clear that the data was still difficult to interpret. The Interviewees had a hard time zeroing in on a country and interpreting its data on its own. This was due to the difficulty of tracking the name of the country back to its bubbles. Interviewees believed that some interactivity solved the issue of the bubbles being difficult to interpret. By hovering over the data points they could digest the data they wanted. The ability to reorder data in different columns allows the user to compare countries over most desireable quality.
 
