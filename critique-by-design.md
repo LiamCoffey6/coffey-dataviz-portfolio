@@ -11,7 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette
 
-![Original Visualization](https://www.voronoiapp.com/migration/Ranked-2025s-Best-Countries-to-Live--Work-In-4323)
+/assets/images/Top-Migration-Destinations-2025_WEB-1.jpg
 
 ## Step two: the critique
 
