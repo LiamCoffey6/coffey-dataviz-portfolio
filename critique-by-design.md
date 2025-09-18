@@ -106,5 +106,5 @@ I found this critique process to be incredibly helpful. My main goal in this red
 https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette
 
 ## AI acknowledgements
-N/A
+Used the Built in Copilot Assist within Github to embed the image of the original Data viz.
 
