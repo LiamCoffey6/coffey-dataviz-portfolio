@@ -26,6 +26,23 @@ Talk about solutions like dense urban planning, further drought restrictions, an
 
 ## Initial sketches
 
+Visualization of Population Growth in San Antonio
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/Population_Image.jpg)
+
+Moving Visualization of Water System Growth in San Antonio
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/Pipe_Growth_Image.jpg)
+
+Number of Days Over 100 Degrees Farenheit
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/Temperature_Image.jpg)
+
+Detailed Visualization of Water Resources and Their Usage
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/Water_Resource_Image.jpg)
+
+Edwards Aquifer Historical Level and Decline
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/Aquifer_Level_Image.jpg)
+
+Drought in the US Map
+![Original Data Visualization](https://raw.githubusercontent.com/LiamCoffey6/coffey-dataviz-portfolio/main/US_Map_Image.jpg)
 
 # The data
 The Data sources I have selected come from publicly accessible data. I plan to focus on exact water usage, water loss reports, and Water Resource Level data which will inform the state of water resources in the region. I will then focus on the causes of water resource strain, which includes temperature data, population growth, and population density. Finally I will utilize national Water Strain Data to emphasize how widespread this issue is around the US.
