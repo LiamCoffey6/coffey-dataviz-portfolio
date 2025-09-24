@@ -25,9 +25,7 @@ Talk about solutions like dense urban planning, further drought restrictions, an
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
 The Data sources I have selected come from publicly accessible data. I plan to focus on exact water usage, water loss reports, and Water Resource Level data which will inform the state of water resources in the region. I will then focus on the causes of water resource strain, which includes temperature data, population growth, and population density. Finally I will utilize national Water Strain Data to emphasize how widespread this issue is around the US.
@@ -37,14 +35,14 @@ The Data sources I have selected come from publicly accessible data. I plan to f
 |   Edwards Aquifer Level Data   |   https://data.edwardsaquifer.org/AquiferConditions  |       This Data shows the historical level for the Edwards Aquifer (top water supply for San Antonio)      |
 |   Water System Size Data   |   https://inventory.saws.org/  |      This data shows the size of the water system's service area       |
 |   Population Growth Data   |   https://www.macrotrends.net/global-metrics/cities/23128/san-antonio/population  |      This data shows the population growth of San Antonio over many years       |
-|   Water Loss Data   |   https://www.saws.org/stewardship/non-revenue-water/monthly-non-revenue-water-reports/  |             |
-|   Water Resource Usage Data   |   https://www.saws.org/your-water/management-sources/  |             |
-|   Population Density San Antonio   |   https://www.arcgis.com/home/item.html?id=86d73878f7354920bc115c611105ff3c  |             |
-|   Temperatures in San Antonio   |   https://weatherspark.com/y/7137/Average-Weather-in-San-Antonio-Texas-United-States-Year-Round  |             |
-|   US Water Resource Strain   |   https://news.climate.columbia.edu/2019/09/23/climate-change-impacts-water/  |             |
+|   Water Loss Data   |   https://www.saws.org/stewardship/non-revenue-water/monthly-non-revenue-water-reports/  |      This data shows the moving average for percentage of water loss within the system       |
+|   Water Resource Usage Data   |   https://www.saws.org/your-water/management-sources/  |       This data contains info on the many different water sources within the system, including total amount of water and homes served.      |
+|   Population Density San Antonio   |   https://www.arcgis.com/home/item.html?id=86d73878f7354920bc115c611105ff3c  |       This is a geographic view of population density within San Antonio      |
+|   Temperatures in San Antonio   |   https://weatherspark.com/y/7137/Average-Weather-in-San-Antonio-Texas-United-States-Year-Round  |       This data contains historical temperature data within the city of San Antonio      |
+|   US Drought Data   |   https://droughtmonitor.unl.edu/  |       This data contains drought information across the US     |
 
 # Method and medium
-For this project I plan to primarily use Tableau and ArcGIS Story maps. A combination of data visualizations and maps will be sufficient to tell the story of water utilities in the City of San Antonio.
+For this project I plan to primarily use Tableau and ArcGIS Story maps. A combination of data visualizations and maps will be sufficient to tell the story of water utilities in the City of San Antonio and water strain across the US.
 
 ## References
 _List any references you used here._
