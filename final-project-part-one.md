@@ -6,11 +6,9 @@
 # Outline
 High level summary
 
-	Water is a vital resource for sustaining our day-to-day lives. The massive investment and manpower needed to operate the systems that supply this water goes mostly unnoticed to the average person. As our need for water grows and climate change brings more uncertainties, a large portion of the US will be pushed ever closer to a water crisis. 
- 
-	To understand the factors that contribute to these challenges I will look to San Antonio as a case study. The challenges San Antonio is facing stem primarily from rising temperatures, limitations on available water resources, and large population growth. Recent years in San Antonio have seen unprecedented temperatures, increasing water waste, and low aquifer levels. When you become a full-time resident in a new city, what your local government does to manage its water matters. Know the challenges and promote smart planning and management.
+Water is a vital resource for sustaining our day-to-day lives. The massive investment and manpower needed to operate the systems that supply this water goes mostly unnoticed to the average person. As our need for water grows and climate change brings more uncertainties, a large portion of the US will be pushed ever closer to a water crisis. 
+To understand the factors that contribute to these challenges I will look to San Antonio as a case study. The challenges San Antonio is facing stem primarily from rising temperatures, limitations on available water resources, and large population growth. Recent years in San Antonio have seen unprecedented temperatures, increasing water waste, and low aquifer levels. When you become a full-time resident in a new city, what your local government does to manage its water matters. Know the challenges and promote smart planning and management.
 
- 
 Project Structure
 
 Setup: 
