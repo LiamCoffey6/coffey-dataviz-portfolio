@@ -4,7 +4,7 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-High-level summary
+High level summary
 
 	Water is a vital resource for sustaining our day-to-day lives. The massive investment and manpower needed to operate the systems that supply this water goes mostly unnoticed to the average person. As our need for water grows and climate change brings more uncertainties, a large portion of the US will be pushed ever closer to a water crisis. 
 
