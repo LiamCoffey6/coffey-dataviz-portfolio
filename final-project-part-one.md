@@ -60,7 +60,7 @@ The Data sources I have selected come from publicly accessible data. I plan to f
 For this project I plan to primarily use Tableau and ArcGIS Story maps. A combination of data visualizations and maps will be sufficient to tell the story of water utilities in the City of San Antonio and water strain across the US.
 
 ## References
-_List any references you used here._
+All references are included in Data Table
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
