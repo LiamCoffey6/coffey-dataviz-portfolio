@@ -38,9 +38,9 @@ Text here!
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
-|            Water Utility Understanding             |  Industrialization and urbanization have led to the increase of demand for water. Climate change and overconsumption have created big issues for the aquifers.   |             |             |
-|            Target Audience Usefulness             |                 Yes, plan to live in urban environment.               |             |             |
-|            Flow             |                Would like to see the temperature part before talking about the Edwards aquifer                |             |             |
+|            Water Utility Understanding             |  Industrialization and urbanization have led to the increase of demand for water. Climate change and overconsumption have created big issues for the aquifers.   |      Understand San Antonio’s situation. Drought map gave a good understanding of where this could be a problem elsewhere.       |      Things don’t seem to well in San Antonio. Extreme growth has caused over taxing of water sources       |
+|            Target Audience Usefulness             |                 Yes, plan to live in urban environment.               |      Yes, the call to action items were things you can be mindful about. Gives presentation use       |      Yes, call to action is strong and multiple prongs, not just reliant on your personal consumption       |
+|            Flow             |                Would like to see the temperature part before talking about the Edwards aquifer                |       Maybe place the US context and drought at the beginning?      |       Flow was logical and informative      |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
