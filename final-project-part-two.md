@@ -33,7 +33,6 @@ From my research I hope to gain more information about people's baseline knowled
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -45,23 +44,20 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 |  Placement of Temperature   |  I plan to place the section about temperature in between the water sources and Edwards Aquifer seciton |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|          Grammar                |        I will clean up the storytelling do read better and have proper grammar                     |
+|        One minute presentation           |              Interviewees were concerned about condensing information. Will need to test some options            |
+|             |                                                                                 |
 
-> ...include any final thoughts you have here. 
+I have received very positive feedback about the storytelling so I feel confident in my ability to finish the final touches and deliver a thoughtful storyboard.
 
-Text here!
 
 ## References
-_List any references you used here._
+N/A
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to help me use certain functions in excel to manipulate data and craft my tableau visualizations.
