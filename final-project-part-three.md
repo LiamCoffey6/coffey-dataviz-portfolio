@@ -19,6 +19,9 @@ Lastly, I made small changes to the end of some slides to make them flow better 
 
 For my intended audience I have slightly tweaked the group to be more broad and just target individuals planning to move to drought afflicted regions of the US. I originally identified Masters Students as my audience, however this group is narrow and tailoring this presentataion specifically to them does not change the subject matter. Masters students still fit within the target audience so presenting this in class will still be relevant.
 
+## References
+
+All references used for this project are included in the Shorthand link
 
 ## AI acknowledgements
 
