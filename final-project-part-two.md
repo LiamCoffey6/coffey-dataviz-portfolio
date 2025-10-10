@@ -1,15 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-[> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 Shorthand Storyboard:
 https://preview.shorthand.com/8j2ysqsmNXLSvnWI
 
 # User research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target audience 
 
 I have identified my target audience as individuals looking to establish their future residence in a new place. This story will be useful for these individuals should they find themselves in a place with strained water resources and complex local issues surrounding them. This will give these individuals knowledge for promoting development and restriction practices in their future local governments. 
 
@@ -31,7 +29,6 @@ From my research I hope to gain more information about people's baseline knowled
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
@@ -42,7 +39,6 @@ From my research I hope to gain more information about people's baseline knowled
 |            Flow             |                Would like to see the temperature part before talking about the Edwards aquifer                |       Maybe place the US context and drought at the beginning?      |       Flow was logical and informative      |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
@@ -57,7 +53,9 @@ I have received very positive feedback about the storytelling so I feel confiden
 
 
 ## References
+
 N/A
 
 ## AI acknowledgements
+
 I used AI to help me use certain functions in excel to manipulate data and craft my tableau visualizations.
