@@ -34,15 +34,19 @@ After graduating from CMU I plan to reenter the local government sector. The new
 </script>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
+[Visualizing overnment Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+[Critique by Design](critique-by-design)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
+For my Final Project, I decided to tell a data story about the dangers of straining our water resources. In this data story I use San Antonio as an example, with supporting data visualizations to help the audience understand how water resources and utilites work.
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 
