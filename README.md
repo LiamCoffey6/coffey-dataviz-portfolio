@@ -33,13 +33,13 @@ After graduating from CMU I plan to reenter the local government sector. The new
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
-[Visualizing overnment Debt](visualizing-government-debt)
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
-[Critique by Design](critique-by-design)
+
 
 ## Final project
 
