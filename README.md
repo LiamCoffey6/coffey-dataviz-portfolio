@@ -23,6 +23,9 @@ After graduating from CMU I plan to reenter the local government sector. The new
 - Final Project
 
 # Examples
+
+## Assignment: Visualizing Government Debt
+
 <div class='tableauPlaceholder' id='viz1757300842272' style='position: relative'><noscript><a href='#'><img alt='Government Debt  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtTableauWorkbook&#47;GovernmentDebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GovernmentDebtTableauWorkbook&#47;GovernmentDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebtTableauWorkbook&#47;GovernmentDebt&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1757300842272');
@@ -32,10 +35,6 @@ After graduating from CMU I plan to reenter the local government sector. The new
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-
-
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
